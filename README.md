@@ -17,3 +17,6 @@ pip3 install bs4 lxml
 ```
 python3 amazon_scrapper.py
 ```
+
+## NOTE: It gives 503 when I repeatedly parse, which it should depending on how amazon allow me to parse.
+## I have attached a screencast for same. I request you to consider all the possible scenarios.
